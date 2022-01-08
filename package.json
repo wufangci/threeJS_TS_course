@@ -1,0 +1,23 @@
+{
+  "name": "threejs_ts_course",
+  "version": "1.0.0",
+  "description": "[doc](https://sbcode.net/threejs/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wufangci/threeJS_TS_course.git"
+  },
+  "author": "wufangci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wufangci/threeJS_TS_course/issues"
+  },
+  "homepage": "https://github.com/wufangci/threeJS_TS_course#readme",
+  "devDependencies": {
+    "@types/three": "^0.136.1",
+    "three": "^0.136.0"
+  }
+}
